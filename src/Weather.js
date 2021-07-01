@@ -27,12 +27,12 @@ export default function Weather() {
               />
             </div>
 
-            <div className="col-3">
+            <div className="col-2">
               <button type="submit" className="btn btn-primary">
                 Search
               </button>
             </div>
-            <div className="col-3">
+            <div className="col-4">
               <button type="button" className="btn btn-success">
                 Current Location
               </button>
@@ -85,10 +85,10 @@ export default function Weather() {
         </div>
         <div className="weather-forecast" id="forecast"></div>
         <a href="https://github.com/clarark/weather-app" target="_blank">
-          Open-source code
+          Open-source code 
         </a>
         by Clara Redshaw
-      </div>
+        </div>
     </div>
   );
 }

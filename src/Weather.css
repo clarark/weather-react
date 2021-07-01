@@ -8,7 +8,6 @@
     margin-bottom: 20px;
   }
   
-    
   .Weather .input-text{
       padding:9px;
       margin: 5px;
@@ -20,12 +19,14 @@
       background-color: #ff7171;
       border-color: #ff7171;
       padding: 9px;
+      border-radius: 4px;
     }
     
     .Weather .btn-success{
       background-color: #9fd8df;
       border-color: #9fd8df;
       padding: 9px;
+      border-radius: 4px;
     }
     
     .Weather .btn-primary:hover{
@@ -35,10 +36,8 @@
     
     .Weather .btn-success:hover{
       background-color: #f5c0c0;
-      border-color: #f5c0c0;
-      
+      border-color: #f5c0c0; 
     }
-    
    
     .Weather .house{
       font-size: 30px;
@@ -49,7 +48,7 @@
     }
     
     .Weather .cheese{
-      font-size: 20px;
+      font-size: 0px;
       font-family: Arial, Helvetica, sans-serif;
       color: rgb(135, 135, 135);
     }
@@ -74,7 +73,7 @@
       font-weight: 400;
     }
   
-    .Weather .weather-temperature .units{Weather: NaNcss;
+    .Weather .weather-temperature .units{
       top: -34px;
       position: relative;
       font-size: 17px; 
@@ -113,9 +112,6 @@
       font-family: Arial, Helvetica, sans-serif;
       color: rgb(135, 135, 135);;
     }
-  
-   
-    
   
     .Weather .weather-forecast {
       margin-top: 5px;

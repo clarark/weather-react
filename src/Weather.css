@@ -1,0 +1,140 @@
+.Weather{
+    padding: 20px;
+    border: 1px solid #4a3933;
+    border-radius: 5px;
+  }
+  
+  .Weather .overview {
+    margin-bottom: 20px;
+  }
+  
+    
+  .Weather .input-text{
+      padding:9px;
+      margin: 5px;
+      border-radius: 4px;
+      border: 1px solid #2b2e4a;
+    }
+    
+    .Weather .btn-primary{
+      background-color: #ff7171;
+      border-color: #ff7171;
+      padding: 9px;
+    }
+    
+    .Weather .btn-success{
+      background-color: #9fd8df;
+      border-color: #9fd8df;
+      padding: 9px;
+    }
+    
+    .Weather .btn-primary:hover{
+      background-color: #f5c0c0;
+      border-color: #f5c0c0;
+    }
+    
+    .Weather .btn-success:hover{
+      background-color: #f5c0c0;
+      border-color: #f5c0c0;
+      
+    }
+    
+   
+    .Weather .house{
+      font-size: 30px;
+      font-weight: bold;
+      color: #2b2e4a;
+      font-family: Arial, Helvetica, sans-serif;
+      text-transform: capitalize;
+    }
+    
+    .Weather .cheese{
+      font-size: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(135, 135, 135);
+    }
+    
+    
+    .Weather .degree-number{
+      font-size: 35px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+    }
+    
+    .Weather .weather-temperature img {
+      margin-right: 5px;
+      height: 64px;
+      width: 64px;
+    }
+  
+    .Weather .weather-temperature strong {
+      color: rgb(33, 33, 33);
+      font-size: 64px;
+      line-height: 1;
+      font-weight: 400;
+    }
+  
+    .Weather .weather-temperature .units{Weather: NaNcss;
+      top: -34px;
+      position: relative;
+      font-size: 17px; 
+    }
+    
+    .Weather .weather-temperature .active{
+      color: rgb(33, 33, 33);
+      cursor: default;
+    }
+  
+    .Weather .weather-temperature .active:hover{
+      text-decoration: none;
+    }
+  
+    .Weather .weather{
+      position:relative;
+      font-family: Arial, Helvetica, sans-serif;
+      left: 350px;
+      font-size: 22px;
+      color: rgb(135, 135, 135);
+      top: -60px;
+    }
+    
+    .Weather .row{
+      color:#2b2e4a;
+      font-size: 20px;
+    }
+    
+  
+    .Weather .degrees{ 
+      text-decoration: none;
+    }
+    
+    .Weather #description{
+      font-size: 20px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(135, 135, 135);;
+    }
+  
+   
+    
+  
+    .Weather .weather-forecast {
+      margin-top: 5px;
+      text-align: center;
+      color:#000;
+    }
+  
+    .Weather .weather-forecast-date {
+      font-size: 22px;
+      opacity: 0.5;
+    }
+    
+    .Weather .weather-forecast-temperature-min {
+      opacity: 0.5;
+    }
+  
+    .Weather .weather-forecast-temperatures {
+      font-size: 18px;
+    }
+  
+  
+    

@@ -65,11 +65,11 @@ export default function Weather() {
               <div className="float-left" id="temperature">
                 <strong> {weatherData.temperature} </strong>
                 <span className="units">
-                  <a href="" className="degrees active" id="celsius-link">
+                  <a href="/" className="degrees active" id="celsius-link">
                     °C
                   </a>{" "}
                   |
-                  <a href="" className="degrees active" id="fahrenheit-link">
+                  <a href="/" className="degrees active" id="fahrenheit-link">
                     °F
                   </a>
                 </span>
@@ -84,7 +84,7 @@ export default function Weather() {
           </p>
         </div>
         <div className="weather-forecast" id="forecast"></div>
-        <a href="https://github.com/clarark/weather-app" target="_blank">
+        <a href="https://github.com/clarark/weather-app" target="_blank" rel="nonreferrer">
           Open-source code 
         </a>
         by Clara Redshaw

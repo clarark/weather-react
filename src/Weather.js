@@ -84,7 +84,7 @@ export default function Weather() {
           </p>
         </div>
         <div className="weather-forecast" id="forecast"></div>
-        <a href="https://github.com/clarark/weather-app" target="_blank" rel="nonreferrer">
+        <a href="https://github.com/clarark/weather-app">
           Open-source code 
         </a>
         by Clara Redshaw
